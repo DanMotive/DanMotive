@@ -2,25 +2,25 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,nim">
+    <img src="https://skillicons.dev/icons?i=go,py,ts,sqlite,nodejs,lua">
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,clion&perline=4">
+    <img src="https://skillicons.dev/icons?i=vscode,unity,powershell,npm,godot">
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,discord&perline=4">
+    <img src="https://skillicons.dev/icons?i=github,discord,gmail">
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux&perline=4">
+    <img src="https://skillicons.dev/icons?i=windows,linux&perline=4">
   </a>
 </p>
 
