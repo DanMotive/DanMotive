@@ -29,9 +29,3 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DanMotive&theme=tokyonight&layout=compact&text_color=aaaaff&bg_color=00000000&hide_border=true" height="195" style="vertical-align: middle;">
 </p>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanMotive/DanMotive/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanMotive/DanMotive/output/pacman-contribution-graph.svg">
-    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/DanMotive/DanMotive/output/pacman-contribution-graph.svg">
-</picture>
